@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Aeroport
+comment1.params=
+comment1.target=Aeroport()
+comment2.params=
+comment2.target=Aeroport\ getInstance()
+comment3.params=pret\ nrPasageri\ destinatie\ escala
+comment3.target=void\ adaugaCursaInterna(int,\ int,\ java.lang.String,\ boolean)
+comment4.params=pret\ nrPasageri\ destinatie\ escala\ taraLinieAeriana
+comment4.target=void\ adaugaCursaExterna(int,\ int,\ java.lang.String,\ boolean,\ java.lang.String)
+comment5.params=
+comment5.target=void\ exit()
+comment6.params=
+comment6.target=void\ afisare()
+comment7.params=
+comment7.target=void\ afisareCurseExterne()
+numComments=8

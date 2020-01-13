@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Interne
+comment1.params=pret\ nrPasageri\ destinatie\ escala
+comment1.target=Interne(int,\ int,\ java.lang.String,\ boolean)
+comment2.params=
+comment2.target=void\ discountPretInterne()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

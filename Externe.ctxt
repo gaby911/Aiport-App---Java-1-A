@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Externe
+comment1.params=pret\ nrPasageri\ destinatie\ escala\ taraLinieAeriana
+comment1.target=Externe(int,\ int,\ java.lang.String,\ boolean,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getTara()
+comment3.params=taraLinieAeriana
+comment3.target=void\ setTara(java.lang.String)
+comment4.params=
+comment4.target=void\ discountPretExterne()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6
